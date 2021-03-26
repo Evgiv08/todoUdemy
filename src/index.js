@@ -24,6 +24,7 @@ const App = () => {
             <AppHeader/>
             <SearchPanel/>
             <ToDoList/>
+
         </div>
     )
 }
